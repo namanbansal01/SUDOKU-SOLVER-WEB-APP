@@ -51,8 +51,3 @@ To solve the puzzle completely, one can use the following functionalities
 ### Reference Video
 https://user-images.githubusercontent.com/68748614/134053034-f1a04e51-6f5c-4ff1-a988-67f4bedaf73b.mp4
 
-
-#### Link
-Website- https://real-time-sudoku-solver-api.herokuapp.com/ </br>
-LinkedIn- https://www.linkedin.com/posts/aadarsh-gupta-335163184_realtimesudokusolver-opencv-flask-activity-6754825033941696512-FTub
-
